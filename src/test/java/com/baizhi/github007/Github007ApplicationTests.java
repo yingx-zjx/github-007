@@ -12,6 +12,8 @@ public class Github007ApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("这是第一个github程序开发");
+        System.out.println("这是第一个github程序开发的修改");
+        
     }
 
 }
